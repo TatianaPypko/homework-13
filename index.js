@@ -46,5 +46,3 @@ person("Oleksii Davudov", 25, 25);
 //   quantity: 9,
 //   bonuses: 18,
 // };
-
-console.log(store);
